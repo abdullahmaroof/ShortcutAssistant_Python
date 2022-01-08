@@ -1,7 +1,7 @@
 from tkinter import *
 import time
 from PIL import ImageTk, Image
-from shortcut_assistant.backend import *
+from Backend import *
 
 
 def time_gui():
