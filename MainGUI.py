@@ -1,4 +1,4 @@
-from shortcut_assistant.frontend_part import *
+from Other_GUI import *
 
 class GUI_system:
     def __init__(self, root):
